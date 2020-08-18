@@ -1,4 +1,3 @@
-# dotfiles
 #+TITLE:dotfiles
 * Welcome!
 This contains everything I use to config my computer, minus a few things that contain passwords!
